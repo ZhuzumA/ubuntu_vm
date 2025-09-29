@@ -1,7 +1,7 @@
 # Ubuntu Virtual Machine - UTM Lab on MacOS
 
 This project document my **home lab setup** of Ubuntu running inside a virtual machine on MacOS using [UTM](https://mac.getutm.appmac.). 
-The main goal of this lab is to practice Linux system administration and IT support tasks, and showcase my technocal skills in a practical way. 
+The main goal of this lab is to practice Linux system administration and IT support tasks, and showcase my technical skills in a practical way. 
 
 ---
 ##Screenshots
@@ -63,7 +63,7 @@ sudo systemctl status apache2
 
 - Installed and configured Git and VS code
 ```bash
-sudo snap install code --classic #didn't work for this arcitecture so i downloaded directly the package from the site
+sudo snap install code --classic #the snap didn't work for this arcitecture, so I downloaded a package directly from the website
 wget https:..update.code.visualstudio.com/latest/linux-deb-arm64/stable -O vscode-arm64.deb
 sudo install apt install ./vscode-arm64.deb
 rm vscode-arm64.deb

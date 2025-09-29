@@ -7,11 +7,16 @@ The main goal of this lab is to practice Linux system administration and IT supp
 ##Screenshots
 | Task | Screenshot |
 |------|-----------|
-|||
-|||
-|||
-|||
-|||
+|Checking hostname|[Show hostname](images/hostname.png)|
+|Checking OS information|[Show OS Info](images/os_info.png)|
+|Creating new user|[Creating new user step](images/new_user.png)|
+|Permission setting|[Set permissions for a new file](images/user_permission.png)|
+|Checking all network interfaces and IP adresses|[Show IP network information](images/ip_a.png)|
+|Checking routing table|[Show routing table](images/ip_route.png)|
+|Installing Interactive system monitor|[Htop installing steps](images/htop.png)|
+|Testing htop|[Running htop in terminal](images/ran_htop.png)|
+|Apache2 installation|[Apache2 installing step](images/apache2.png)|
+|Testing Apache2 in browser|[Running Apache2 in browser](images/apache2_test.png)|
 
 ---
 
